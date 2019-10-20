@@ -7982,3 +7982,6 @@ DOMAIN-SUFFIX,zzz7.52896368.com,REJECT
 DOMAIN-SUFFIX,zzzzz4.52896368.com,REJECT
 DOMAIN-SUFFIX,analytics.query.yahoo.com,REJECT
 DOMAIN-SUFFIX,is.snssdk.com,REJECT
+# DOMAIN,p9-buy.itunes.apple.com
+DOMAIN-KEYWORD,googleads,REJECT
+DOMAIN-KEYWORD,googleadsserving,REJECT
