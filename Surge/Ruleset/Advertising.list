@@ -199,6 +199,10 @@ DOMAIN,log.ycapp.yiche.com
 # > 百词斩
 DOMAIN,advertise.baicizhan.org
 DOMAIN,advertise.baicizhan.com
+# > 笔趣阁
+#DOMAIN,p9-buy.itunes.apple.com
+DOMAIN-KEYWORD,googleads
+DOMAIN-KEYWORD,googleadsserving
 # (C)
 # > CNTV
 DOMAIN,galaxy.bjcathay.com
