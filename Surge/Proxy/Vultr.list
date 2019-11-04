@@ -1,4 +1,4 @@
-Vultr46914 = ss, 45.77.73.189, 46914, aes-256-gcm, rui2k0614!, http://example.com/, tfo=true
+Vultr46914 = ss, 45.77.73.189, 46914, aes-256-gcm, rui2k0614!
 Vultr00 = custom, 45.77.73.189, 9000, aes-256-gcm, vks18gkw, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
 Vultr01 = custom, 45.77.73.189, 9001, aes-256-gcm, t6ipmdd1, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
 Vultr02 = custom, 45.77.73.189, 9002, aes-256-gcm, 11kc4b31, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
