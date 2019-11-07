@@ -1,11 +1,1 @@
-Vultr = ss, 45.77.73.189, 46914, aes-256-gcm, rui2k0614!
-Vultr00 = custom, 45.77.73.189, 9000, aes-256-gcm, vks18gkw, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr01 = custom, 45.77.73.189, 9001, aes-256-gcm, t6ipmdd1, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr02 = custom, 45.77.73.189, 9002, aes-256-gcm, 11kc4b31, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr03 = custom, 45.77.73.189, 9003, aes-256-gcm, jw7xc9cd, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr04 = custom, 45.77.73.189, 9004, aes-256-gcm, m51g8wk9, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr05 = custom, 45.77.73.189, 9005, aes-256-gcm, b3id7ncn, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr06 = custom, 45.77.73.189, 9006, aes-256-gcm, hgxnsu7j, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr07 = custom, 45.77.73.189, 9007, aes-256-gcm, fpti36gg, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr08 = custom, 45.77.73.189, 9008, aes-256-gcm, izk73846, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
-Vultr09 = custom, 45.77.73.189, 9009, aes-256-gcm, 6ga7psom, http://example.com/, obfs=http, obfs-host=www.bing.com, tfo=true
+Vultr46915 = custom, 45.77.73.189, 46915, aes-256-gcm, lGfqjxZlL0pDtEK8mT1Q, http://example.com/, obfs=tls, obfs-host=www.bing.com, tfo=true
