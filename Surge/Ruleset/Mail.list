@@ -1,9 +1,9 @@
 # > Gmail
-DOMAIN,pop.gmail.com
-DOMAIN,imap.gmail.com
-DOMAIN,smtp.gmail.com
+DOMAIN,pop.gmail.com,force-remote-dns
+DOMAIN,imap.gmail.com,force-remote-dns
+DOMAIN,smtp.gmail.com,force-remote-dns
 # > Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,smtp.office365.com
-DOMAIN,imap-mail.outlook.com
-DOMAIN,smtp-mail.outlook.com
+DOMAIN,outlook.office365.com,force-remote-dns
+DOMAIN,smtp.office365.com,force-remote-dns
+DOMAIN,imap-mail.outlook.com,force-remote-dns
+DOMAIN,smtp-mail.outlook.com,force-remote-dns
