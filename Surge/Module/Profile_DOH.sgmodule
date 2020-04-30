@@ -1,0 +1,56 @@
+#!name=Profile Module
+#!desc=基础配置
+[General]
+// General
+http-listen = 0.0.0.0:7890
+socks5-listen = 0.0.0.0:7891
+
+external-controller-access = jo2ey@0.0.0.0:6170
+allow-wifi-access = true
+
+internet-test-url = http://www.aliyun.com
+proxy-test-url = http://cp.cloudflare.com/generate_204
+
+test-timeout = 3
+ipv6 = true
+show-error-page-for-reject = true
+
+// DNS
+doh-format=json
+// dns-server = https://neatdns.ustclug.org/resolve
+dns-server = 117.50.10.10, 119.29.29.29, 223.5.5.5, 223.6.6.6, 8.8.8.8, system
+
+// Advanced
+loglevel = notify
+skip-proxy = 192.168.0.0/16, 193.168.0.0/24, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, 17.0.0.0/8, 127.0.0.1, localhost, *.local
+exclude-simple-hostnames = true
+use-default-policy-if-wifi-not-primary = false
+
+// Others
+enhanced-mode-by-rule = false
+always-real-ip = *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
+
+[Replica]
+hide-apple-request = true
+hide-crashlytics-request = true
+hide-udp = false
+keyword-filter-type = false
+
+[Host]
+neatdns.ustclug.org = server:202.141.178.13
+*.1688.com = server:223.5.5.5
+*.taobao.com = server:223.5.5.5
+*.tmall.com = server:223.5.5.5
+*.alipay.com = server:223.5.5.5
+*.alicdn.com = server:223.5.5.5
+*.aliyun.com = server:223.5.5.5
+*.fliggy.com = server:223.5.5.5
+*.jd.com = server:119.29.29.29
+*.qq.com = server:119.29.29.29
+*.tencent.com = server:119.29.29.29
+*.weixin.com = server:119.29.29.29
+*buyimg.com = server:119.29.29.29
+*gtimg.* = server:119.29.29.29
+*.bilibili.com = server:119.29.29.29
+hdslb.com = server:119.29.29.29
+# CUSTOM HOST
