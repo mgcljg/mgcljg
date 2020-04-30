@@ -16,7 +16,7 @@ ipv6 = true
 show-error-page-for-reject = true
 
 // DNS
-doh-format=json
+// doh-format=json
 // dns-server = https://neatdns.ustclug.org/resolve
 dns-server = https://cloudflare-dns.com/dns-query
 // dns-server = 117.50.10.10, 119.29.29.29, 223.5.5.5, 223.6.6.6, 8.8.8.8, system
