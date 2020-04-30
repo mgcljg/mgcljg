@@ -18,8 +18,8 @@ show-error-page-for-reject = true
 // DNS
 // doh-format=json
 // dns-server = https://neatdns.ustclug.org/resolve
-dns-server = https://cloudflare-dns.com/dns-query
-// dns-server = 117.50.10.10, 119.29.29.29, 223.5.5.5, 223.6.6.6, 8.8.8.8, system
+//dns-server = https://cloudflare-dns.com/dns-query
+dns-server = 117.50.10.10, 119.29.29.29, 223.5.5.5, 223.6.6.6, 8.8.8.8, system
 
 // Advanced
 loglevel = notify
@@ -38,7 +38,7 @@ hide-udp = false
 keyword-filter-type = false
 
 [Host]
-// google.com = server:https://cloudflare-dns.com/dns-query
+google.com = server:https://cloudflare-dns.com/dns-query
 cloudflare-dns.com = server:1.1.1.1
 neatdns.ustclug.org = server:202.141.178.13
 *.1688.com = server:223.5.5.5
