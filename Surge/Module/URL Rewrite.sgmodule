@@ -356,6 +356,10 @@
 ^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/ - reject
 
 # S
+# > Spotify
+https?://spclient.wg.spotify.com/ad-logic - reject
+https?://spclient.wg.spotify.com/ads - reject
+https?://spclient.wg.spotify.com/sponsoredplaylist - reject
 # > 搜狐
 ^https?:\/\/api\.k\.sohu\.com\/api\/news\/adsense - reject
 ^https?:\/\/pic\.k\.sohu\.com\/img8\/wb\/tj\/ - reject
