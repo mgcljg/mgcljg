@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,scdn.co
 IP-CIDR,23.246.0.0/18,no-resolve
 IP-CIDR,37.77.184.0/21,no-resolve
 IP-CIDR,45.57.0.0/17,no-resolve
