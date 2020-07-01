@@ -39,6 +39,7 @@ keyword-filter-type = false
 
 [Host]
 // google.com = server:https://cloudflare-dns.com/dns-query
+www.hi-pad.com = server:198.18.1.42
 cloudflare-dns.com = server:1.1.1.1
 neatdns.ustclug.org = server:202.141.178.13
 *.1688.com = server:223.5.5.5
