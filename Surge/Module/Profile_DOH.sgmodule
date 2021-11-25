@@ -19,7 +19,7 @@ show-error-page-for-reject = true
 // doh-format=json
 // dns-server = https://13800000000.rubyfish.cn:443, https://1.1.1.1/dns-query, https://dns.google/dns-query, https://dns9.quad9.net:443/dns-query, system
 dns-server = https://223.5.5.5/dns-query,https://dns.rubyfish.cn/dns-query,https://1.1.1.1/dns-query,system
-// dns-server = 117.50.10.10, 119.29.29.29, 223.5.5.5, 223.6.6.6, 8.8.8.8, system
+// dns-server = 202.96.128.166, 119.29.29.29, 180.76.76.76, 223.5.5.5, 8.8.8.8, system
 
 // Advanced
 loglevel = notify
