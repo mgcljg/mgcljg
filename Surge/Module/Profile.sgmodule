@@ -18,7 +18,7 @@ show-error-page-for-reject = true
 // DNS
 doh-format=json
 // dns-server = https://neatdns.ustclug.org/resolve
-dns-server = 117.50.10.10, 119.29.29.29, 223.5.5.5, 223.6.6.6, 8.8.8.8, system
+dns-server = 202.96.128.166, 119.29.29.29, 180.76.76.76, 223.5.5.5, 8.8.8.8, system
 
 // Advanced
 loglevel = notify
